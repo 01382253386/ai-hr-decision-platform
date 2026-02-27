@@ -1,0 +1,17 @@
+# NEVER upload this to GitHub
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated PDF reports
+*.pdf
+
+# VS Code settings
+.vscode/
+
+# Windows system files
+Thumbs.db
+desktop.ini
